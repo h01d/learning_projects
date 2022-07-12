@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-This project creates 5 txt files and 2 doc files on your desktop. 
+This project creates 5 .txt files and 2 .doc files on your desktop. 
 It also comes with a GUI that will display the files created and their path.
 The point of this project was to get accustomed with os and tkinter libraries.
 	
