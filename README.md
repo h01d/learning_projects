@@ -13,4 +13,4 @@ Project is created with:
 * Python version: 3.10.5(latest)
 	
 ## Setup
-compile the code
+compile the code in your preferred ide, text editor, or compiler
