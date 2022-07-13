@@ -1,5 +1,5 @@
 # My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+Made a program that uses the Python os library to create a folder on the user's desktop and populate it with 5 .txt and 2 .doc files and displays them in a window after a button is pushed.
 
 ## How It's Made:
 
@@ -8,7 +8,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Tech used:** Python(3.10.5)
 
-Made a program that uses the Python os library to create a folder on the user's desktop and populate it with 5 .txt and 2 .doc files. The program then reads each path of the files into some variables passed throughout the functions used. The GUI was made with the Python tkinter library. Upon starting the program a window with a prompt asking the user whether they would like to see the files that were added to their desktop is given. A button with, "Yes!" is pushable and upon pushing will display the path of each file populated within the folder created in the very same window.
+Initially the program creates a folder with the aforementioned files. The program then reads each path of the file's paths into corresponding variables. The GUI was made with the Python tkinter library, upon starting the program a window with a prompt asking the user whether they would like to see the files that were added to their desktop is given. A button with, "Yes!" is pushable and upon pushing will display the path of each file populated within the folder created in the very same window.
 
 ## Optimizations
 
