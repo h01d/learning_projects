@@ -4,6 +4,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 ## How It's Made:
 
 ![Alt text](https://user-images.githubusercontent.com/89095616/178635077-e962c361-065a-4b82-b68d-03481cecf57d.png?raw=true)
+![Alt text](https://user-images.githubusercontent.com/89095616/178635086-44c9251e-59d3-41b4-9d9e-1b55534980d5.png?raw=true)
 
 **Tech used:** Python(3.10.5)
 
