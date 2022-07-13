@@ -1,4 +1,4 @@
-# My Awesome Project
+# My first github project
 Made a program that uses the Python os library to create a folder on the user's desktop and populate it with 5 .txt and 2 .doc files and displays them in a window after a button is pushed.
 
 ## How It's Made:
