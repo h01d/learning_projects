@@ -12,7 +12,7 @@ Made a program that uses the Python os library to create a folder on the user's 
 
 ## Optimizations
 
-I could have dabbled a little more with the look of the GUI, however I wished to learned the technology in the backend more than the frontend. I also could have sliced the paths out of each string being displayed from the two corresponding .txt and .doc lists.
+I could have dabbled a little more with the look of the GUI. I also could have sliced the paths out of each string being displayed from the two corresponding .txt and .doc lists.
 
 ## Lessons Learned:
 
